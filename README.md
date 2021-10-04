@@ -1,4 +1,4 @@
 # Storm-edit-font
 Logo Storm edit.
-Made from begining to the end in Html and Css.
+Made in Html and Css.
 Jakub D
